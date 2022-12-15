@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a4d69354314d194fbec14083b01e2ee, type: 3}
+  m_Name: Personnage1
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: cb39cdafb5e74de44a31d8bb1c1b8d1c, type: 3}
+  name: Argon
+  race: 4
+  classe: 0
+  strength: 15
+  dexterity: 10
+  constitution: 13
+  intelligence: 10
+  wisdom: 10
+  charisma: 14
